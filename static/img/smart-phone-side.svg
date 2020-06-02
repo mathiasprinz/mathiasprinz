@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 61 523" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,-871,-192)">
+        <g id="Phone-Hammer" serif:id="Phone+Hammer">
+            <g id="Phone-front">
+            </g>
+            <g id="Hammer">
+            </g>
+            <g transform="matrix(0.655836,0,0,1,398.853,-10)">
+                <g id="AddToCart">
+                </g>
+            </g>
+        </g>
+        <g id="Phone-side" transform="matrix(1,0,0,1,20,0)">
+            <g transform="matrix(1,0,0,1,756.723,213.092)">
+                <path d="M141,17.5C141,8.945 134.055,2 125.5,2C116.945,2 110,8.945 110,17.5L110,457.5C110,466.055 116.945,473 125.5,473C134.055,473 141,466.055 141,457.5L141,17.5Z" style="fill:rgb(255,215,215);stroke:black;stroke-width:4px;"/>
+            </g>
+            <g id="btn" transform="matrix(1,0,0,1,756.723,213.092)">
+                <path d="M125.5,28L125.5,78" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g id="btn1" serif:id="btn" transform="matrix(1,0,0,1,756.723,213.092)">
+                <path d="M125.5,88L125.5,138" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            </g>
+        </g>
+        <g id="Hand-axe-side">
+        </g>
+        <g id="Hand-axe-front">
+        </g>
+        <g id="ABSTRACT-DOG">
+        </g>
+    </g>
+</svg>
